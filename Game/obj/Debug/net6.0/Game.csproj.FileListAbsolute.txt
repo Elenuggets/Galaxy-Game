@@ -1,0 +1,15 @@
+C:\Users\elena\source\repos\Game\Game\bin\Debug\net6.0\Game.exe
+C:\Users\elena\source\repos\Game\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\elena\source\repos\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\elena\source\repos\Game\Game\bin\Debug\net6.0\Game.dll
+C:\Users\elena\source\repos\Game\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.dll
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\elena\source\repos\Game\Game\obj\Debug\net6.0\ref\Game.dll
