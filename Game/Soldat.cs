@@ -11,6 +11,7 @@ namespace Game
         private int health;
         private int damage;
         private string name;
+        private bool isHero;
 
         public Soldat(string Name)
         {
@@ -20,6 +21,9 @@ namespace Game
 
             // set the damage
             damage = random.Next(100, 500);
+
+            // if is a hero ?
+            isHero = false;
 
             // set the name
             name = Name;
@@ -48,6 +52,16 @@ namespace Game
                 health = 0;
         }
 
+        public bool GetHero()
+        {
+            return isHero;
+        }
+
+        public void SetHero()
+        {
+            isHero = true;
+        }
+
         public void attack(Soldat enemy)
         {
             // calculate the damage
@@ -58,7 +72,12 @@ namespace Game
             enemy.SetHealth(enemy.GetHealth() - damage * (1 + p/100));
             Console.WriteLine(name + " attack " + enemy.GetName() + "!\n");
             if (enemy.GetHealth() <= 0)
-                Console.WriteLine(enemy.GetName() + " is dead..\n");
+            {
+                if (enemy.GetHero())
+                    Console.WriteLine("Oh, the hero " + enemy.GetName() + " is dead..\n");
+                else
+                    Console.WriteLine(enemy.GetName() + " is dead..\n");
+            }
             else
                 Console.WriteLine(enemy.GetName() + " has " + enemy.GetHealth() + " life point.\n");
         }

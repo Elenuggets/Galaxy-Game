@@ -21,6 +21,8 @@
             // select the hero of each team
             hero_Empire = Hero(list_Empire);
             hero_Rebelle = Hero(list_Rebelle);
+            hero_Empire.SetHero();
+            hero_Rebelle.SetHero();
 
             // select the favori
             Random rand = new Random();

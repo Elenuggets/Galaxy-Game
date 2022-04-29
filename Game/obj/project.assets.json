@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elena\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\elena\\Documents\\GALAXY\\Galaxy-Game\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\elena\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\elena\\Documents\\GALAXY\\Galaxy-Game\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elena\\source\\repos\\Game\\Game\\obj\\",
+      "outputPath": "C:\\Users\\elena\\Documents\\GALAXY\\Galaxy-Game\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
